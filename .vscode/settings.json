@@ -1,4 +1,7 @@
 {
 	"editor.fontSize": 18,
-	"editor.detectIndentation": false
+	"editor.detectIndentation": false,
+	"terminal.integrated.fontSize": 12,
+	"terminal.integrated.fontWeightBold": "normal",
+	"files.autoSaveDelay": 2000
 }
